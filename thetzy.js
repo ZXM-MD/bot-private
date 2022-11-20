@@ -45,8 +45,8 @@ global.botname = "[⫹⫺ - ᴘᴀᴋ ᴢᴀɪɴᴀʟ ᴅᴇᴠ'ꜱ ダフ️]" 
 global.footer = "ᴘᴀᴋ ᴢᴀɪɴᴀʟ ᴅᴇᴠ'ꜱ ϟ" //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['+48 729 754 812']
-global.premium = ['+48 729 754 812']
+global.owner = ['6289636371132']
+global.premium = ['6289636371132']
 global.packname = "ᴘᴀᴋ ᴢᴀɪɴᴀʟ ᴅᴇᴠ'ꜱ ϟ"
 global.ownerr = ["ᴘᴀᴋ ᴢᴀɪɴᴀʟ ᴅᴇᴠ'ꜱ ダフ️"]
 global.author = "[⫹⫺ - 㑒 𝐏𝐚𝐤 - Zainal Dev's ϟ〽️]"
